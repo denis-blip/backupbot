@@ -1,0 +1,20 @@
+ ## This Bot Using Discord-Backup Package
+ 
+
+ ## CONFIG ## MADE BY DARKBOY
+ token: 'NzQ3MDc4Mjg2MjIzMzQzNjQ2.X0Jo3w.Lr9QxP-4rC915TB4tzDuRPnckEI'
+ mainprefix: 'b!'
+ status: 'b!help | Backups '
+
+ ## BOT SESSTINGS ##
+ messagesfetchlimts: '50'
+ botlog: '757150220403343400'
+
+
+ ## EMOJIS ##
+ attention: '⚠️'
+ permission: '⛔️'
+ yes: '✅'
+ arrowhere: '⏺'
+ no: '❌'
+
